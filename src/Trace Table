@@ -1,5 +1,5 @@
 Int thisYear    int thisYearLeap	Int nextYear	Int thisMonth	Short CENTURY	Int february	Double twentyNine    output
 2010	                                 2013	        2046		     2000             2013	          28.0            2044.5
-2011				                                                                       2                              2011
-                      2016.5                                                                                              2013
-                                                                                                                          2046
+2011				                                                                       2                              2011 2013 2046
+                      2016.5
+
