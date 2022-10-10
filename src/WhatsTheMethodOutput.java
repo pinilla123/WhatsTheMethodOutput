@@ -5,7 +5,6 @@ public class WhatsTheMethodOutput {
     //-----------------------------------------------------------------------------
     public static void main(String[] args) {
 
-
         int thisYear = 2010;
         int nextYear;
         int thisMonth;
